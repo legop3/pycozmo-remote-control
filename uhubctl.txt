@@ -1,0 +1,2 @@
+ sudo uhubctl -a toggle -p 3 -l 2-1
+
